@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @betolado19
-- 👀 I’m interested in html5,css,js.
+- 👀 I’m interested in HTML5, CSS3, Javascript.
 - 🌱 I’m currently learning html5
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me @jovembetolado on twitter
